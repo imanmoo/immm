@@ -235,13 +235,13 @@ function create_config( )
     "admin",
     "plugins"
     },
-    sudo_users = {198828890},--Sudo users
+    sudo_users = {197019630},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[W_SaTaN_W V 1
     Advanced Bot Base On Seed
     
-    @WilSoN_DeVeLoPeR[DeVeLoPeR] 
+    @goldenndj 
     
     #Open_Source 
     [@W_SaTaN_W] [Https://github.com/DeterGent-Legion/MeGa_SaTaN]
